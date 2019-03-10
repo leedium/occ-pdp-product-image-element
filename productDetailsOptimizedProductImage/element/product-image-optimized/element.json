@@ -1,0 +1,18 @@
+{
+  "availableToAllWidgets": false,
+  "global": false,
+  "inline": false,
+  "tag": "pdp-optimized-product-image",
+  "supportedWidgetType": [
+    "productDetails"
+  ],
+  "translations": [
+    {
+      "description": "Adds quality configuration to optimized image",
+      "language": "en",
+      "title": "PDP Optimized Hero Image"
+    }
+  ],
+  "type": "fragment",
+  "version": 1
+}

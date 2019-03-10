@@ -1,0 +1,20 @@
+{
+  "resources" : {
+    "title": "Optimized PDP Product Hero Image Site Settings",
+    "description": "Configuration values for PDP Hero Image",
+    "heroImageQualityHelp": "Image Quality for the hero Image",
+    "heroImageQualityLabel": "Hero Image Quality",
+    "magnifiedImageQualityHelp": "Image Quality for the magnified image",
+    "magnifiedImageQualityLabel": "Magnified Image Quality",
+    "magnifierPercentHelp": "Percent for magnifier (decimal)",
+    "magnifierPercentLabel": "Magnifier Percent",
+    "magnifierEnabledHelp": "Enable Magnifier",
+    "magnifierEnabledLabel": "Magnifier",
+    "spinnerDelayHelp": "Spinner time delay in milliseconds",
+    "spinnerDelayLabel": "spinnerDelay",
+    "replaceImageAtIndexHelp": "Replace Image at Index",
+    "replaceImageAtIndexLabel": "Replace Image at Index",
+    "isSrcSetEnabledHelp": "Enable srcSet on image",
+    "isSrcSetEnabledLabel": "Image SrcSet"
+  }
+}

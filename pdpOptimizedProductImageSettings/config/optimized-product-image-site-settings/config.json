@@ -1,0 +1,54 @@
+{
+  "titleResourceId": "title",
+  "descriptionResourceId": "description",
+  "properties": [
+    {
+      "id": "heroImageQuality",
+      "type": "stringType",
+      "helpTextResourceId": "heroImageQualityHelp",
+      "labelResourceId": "heroImageQualityLabel",
+      "defaultValue": "0.5"
+    },
+    {
+      "id": "magnifiedImageQuality",
+      "type": "stringType",
+      "helpTextResourceId": "magnifiedImageQualityHelp",
+      "labelResourceId": "magnifiedImageQualityLabel",
+      "defaultValue": "0.5"
+    },
+    {
+      "id": "magnifierPercent",
+      "type": "stringType",
+      "helpTextResourceId": "magnifierPercentHelp",
+      "labelResourceId": "magnifierPercentLabel",
+      "defaultValue": "0.35"
+    },
+    {
+      "id": "magnifierEnabled",
+      "type": "booleanType",
+      "helpTextResourceId": "magnifierEnabledtHelp",
+      "labelResourceId": "magnifierEnabledLabel",
+      "defaultValue": false
+    },    {
+      "id": "spinnerDelay",
+      "type": "stringType",
+      "helpTextResourceId": "spinnerDelayHelp",
+      "labelResourceId": "spinnerDelayLabel",
+      "defaultValue": "200"
+    },
+    {
+      "id": "replaceImageAtIndex",
+      "type": "booleanType",
+      "helpTextResourceId": "replaceImageAtIndexHelp",
+      "labelResourceId": "replaceImageAtIndexLabel",
+      "defaultValue": false
+    },
+    {
+      "id": "isSrcSetEnabled",
+      "type": "booleanType",
+      "helpTextResourceId": "isSrcSetEnabledHelp",
+      "labelResourceId": "isSrcSetEnabledLabel",
+      "defaultValue": true
+    }
+  ]
+}
