@@ -12,7 +12,7 @@ Adujust the quality level in the site settings defined as `Optimized Product Det
 
 
 ## Related
- [occ-shared-resource-bundle](https://github.com/leedium/occ-shared-resource-bundle "occ-shared-resource-bundle")
+ [occ-shared-resource-bundle](https://github.com/leedium/occ-shared-resource-bundle "occ-shared-resource-bundle") .  
  [occ-react-component](https://github.com/leedium/occ-react-component "OCC React Component")
 
 
